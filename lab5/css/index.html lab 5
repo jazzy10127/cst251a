@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab X - Subject/Topic</title>
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+</head>
+<body>
+	<h1>lab 5 file structures</h1>
+	<p>the idea of this lab is to further our knowledge with uploading images to our local file.</P>
+	<h2>results</h2>
+	<p> im now able to open my local file:</p>
+	<img src="IMG_0533.jpeg">
+  <img src="A8258242-118F-419E-BC6C-97B18EA1B681.jpeg"
+</body>
+</html>
+<!-- </DOCTYPE html> -->
