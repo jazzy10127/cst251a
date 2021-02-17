@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lab 6: More advanced HTML</title>
+  <link rel="stylesheet" type="text/css" href="css/index.css"
+</head>
+<body>
+  <div id="content">
+    <h1>Lab 6: More advanced HTML</h1>
+    <img src="sister and i.jpeg">
+    <h2>Big Idea</h2>
+    <p>testing local files and then up load them to the server</p>
+    <h2>Difficulties</h2>
+    <p>I'm still having some difficulties trying to update my website</p>
+    <h2>results</h2>
